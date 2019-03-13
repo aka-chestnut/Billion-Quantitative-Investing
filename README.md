@@ -1,0 +1,4 @@
+# Billion-Quantitative-Investing
+Quantitative Investing Tool
+
+EasyQuant是作者借学校量化投资课而自行开发的量化Windows小程序，程序的初衷是对PyQt5进行练习，同时实现一些小功能满足个人的日常需要，由于这是作者第一次开发程序，也没有系统学习过软件开发的相关课程，一切都在一点一点摸索，因此程序中难免出现一些Bug和不完善的地方，希望您能谅解。
